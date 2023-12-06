@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="tr">
       <body className="mx-auto justify-center">
         <Theme accentColor="violet" grayColor="sand" radius="large">
           <NavBar />
