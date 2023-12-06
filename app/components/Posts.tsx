@@ -7,7 +7,7 @@ export default function Posts() {
 
   return (
     <section className=" mt-6 mx-auto max-w-2xl">
-      <h2 className="text-3xl font-extrabold">Blog Yazıları</h2>
+      <h2 className="text-3xl font-extrabold dark:text-white">Blog Yazıları</h2>
 
       <ul>
         {posts.map((post) => (

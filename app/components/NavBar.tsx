@@ -27,7 +27,7 @@ export default function NavBar() {
   ];
 
   return (
-    <nav className="top-0 sticky  flex justify-center bg-white z-10 p-6 shadow-lg">
+    <nav className="top-0 flex sm:static  sticky justify-center dark:bg-slate-800 dark:text-white bg-white z-10 p-6 sm:p-8 shadow-lg">
       <div className=" flex flex-col sm:flex-row justify-between items-center gap-8 ">
         <div className="justify-center sm:flex ">
           <Link href="/">
@@ -43,8 +43,8 @@ export default function NavBar() {
               key={link.href}
               className={classNames({
                 "text-slate-900": link.href === paths,
-                "text-slate-700": link.href !== paths,
-                "text-xl hover:text-slate-600": true,
+                "text-slate-800": link.href !== paths,
+                "text-xl hover:text-slate-600 dark:text-white": true,
               })}
               href={link.href}
             >

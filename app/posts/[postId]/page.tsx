@@ -47,14 +47,15 @@ export default async function Post({ params }: { params: { postId: string } }) {
   } = await getPostData(postId);
   const formattedDate = getFormattedDate(date);
   return (
-    <main className="px-6 prose prose-xl prose-slate mx-auto mt-10">
+    <main className="px-6 mx-auto mt-10 prose prose-xl dark:text-white">
       <h1 className="text-3xl mt-4 mb-0">{title}</h1>
       <p className="mt-2 text-sm">
         <span className="font-bold mr-2">#{category} </span>
         {formattedDate}
       </p>
-      <Separator my="3" size="4" />
-      <article>
+
+      <Separator my="3" size="4" className="dark:text-dark dark:bg-white" />
+      <article className=" mx-auto">
         <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
         <Separator my="3" size="4" />
         <div className="">
@@ -62,10 +63,20 @@ export default async function Post({ params }: { params: { postId: string } }) {
             <Flex gap="3" align="center">
               <Avatar size="3" src={author_pic} radius="full" fallback="T" />
               <Box>
-                <Text as="div" size="2" weight="bold">
+                <Text
+                  as="div"
+                  size="2"
+                  weight="bold"
+                  className="dark:text-slate-900"
+                >
                   {author}
                 </Text>
-                <Text as="div" size="2" color="gray">
+                <Text
+                  as="div"
+                  size="2"
+                  color="gray"
+                  className="dark:text-slate-900"
+                >
                   {author_title}
                 </Text>
               </Box>
