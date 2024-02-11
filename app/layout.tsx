@@ -18,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="tr">
-      <body className="mx-auto justify-center dark:bg-slate-800">
+      <body className="mx-auto justify-center dark:bg-slate-700">
         <Theme accentColor="violet" grayColor="sand" radius="large">
           <NavBar />
 
