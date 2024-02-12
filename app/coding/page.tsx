@@ -9,14 +9,7 @@ function Coding() {
       </div>
 
       <div className="flex justify-center items-center mt-8">
-        <p className="text-center">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam
-          optio incidunt aliquam molestiae sunt, tenetur tempore, ea nobis quos
-          deserunt voluptatibus non at voluptas consequuntur nesciunt facere
-          excepturi corporis perspiciatis minus hic quibusdam aperiam tempora!
-          Illo natus nemo, minima id quia quae sunt sapiente, voluptates velit a
-          nulla, illum sed.
-        </p>
+        <p className="text-center">Yapım Aşamasında...</p>
       </div>
     </div>
   );
