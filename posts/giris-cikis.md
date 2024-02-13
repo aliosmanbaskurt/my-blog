@@ -11,7 +11,7 @@ author_pic: "/images/pic.png"
 
 Bilgisayar giriş çıkış elemanları ve bileşenleri, bilgisayarın kullanıcı ile iletişim kurmasını ve çevredeki dünya ile etkileşime girmesini sağlayan cihazlardır. Giriş elemanları, kullanıcının bilgisayara veri girmesini sağlar. Çıkış elemanları ise bilgisayarın kullanıcıya veya çevredeki dünyaya veri veya bilgi aktarmasını sağlar.
 
-![test](/images/resim2.jpg)
+![test](/images/Resim2.jpg)
 
 **Giriş elemanları:**
 
@@ -36,10 +36,10 @@ Bazı giriş ve çıkış elemanları hem giriş hem de çıkış için kullanı
 
 Bilgisayar giriş çıkış elemanları ve bileşenleri, bilgisayarın işlevselliğini ve performansını önemli ölçüde etkileyebilir. Doğru giriş ve çıkış elemanları seçilerek, bilgisayarın kullanıcının ihtiyaçlarını ve beklentilerini karşılayabilmesi sağlanabilir.
 
-![test](/images/resim1.jpg)
+![test](/images/Resim1.jpg)
 
 **Etkinlikler**
 
-[Dış Donanımlar Etkinliği](https://learningapps.org/tools/71/36/watch?id=p42tqgpbc16/)
+[Dış Donanımlar Etkinliği](https://learningapps.org/tools/71/36/watch?id=p42tqgpbc16)
 
 [İç Donanımlar Etkinliği](https://learningapps.org/tools/71/36/watch?id=pusoje2rn16)
