@@ -9,7 +9,7 @@ author_pic: "/images/pic.png"
 
 ![test](/images/play.png)
 
-[Quiver](http://www.quivervision.com/) özellikle küçük yaş grubu öğrencilerimizle kullanabileceğiniz artırılmış gerçeklik içeren eğlenceli birweb 2.0 aracıdır. Öğrenciler çıktısını aldığımız dosyalar üzerinde çalışmalarını yaptıktan sonra telefonumuzdaki
+[Quiver](https://www.quivervision.com/) özellikle küçük yaş grubu öğrencilerimizle kullanabileceğiniz artırılmış gerçeklik içeren eğlenceli birweb 2.0 aracıdır. Öğrenciler çıktısını aldığımız dosyalar üzerinde çalışmalarını yaptıktan sonra telefonumuzdaki
 uygulamayı açıp dosyaların üzerine tuttuğumuzda 3 veya
 4 boyutlu olarak resimleri gözlemleyebiliyoruz.
 Yapmanız gereken tek şey Quiver’ın web sayfasında bulunan görsellerden ders içeriğinize
@@ -20,7 +20,7 @@ Yapmanız gereken tek şey Quiver’ın web sayfasında bulunan görsellerden de
 uygun olanını yazdırıp çalışma kağıtları hazırlamak ve Quiver uygulamasını akıllı
 telefonunuza ya da tabletinize indirmek.
 
-[http://www.quivervision.com/](http://www.quivervision.com/)sitesindeki ücretsiz etkileşimli görselimizi indirip telefon
+[http://www.quivervision.com/](https://www.quivervision.com/)sitesindeki ücretsiz etkileşimli görselimizi indirip telefon
 veya tabletimize yükleyeceğimiz uygulamayla görselimizi gözlemlememiz yeterlidir.
 Akıllı telefon veya tabletinizin ekranında görselimizdeki karakterin canlandığını hatta
 sizden gelen etkilere tepki verdiğini göreceksiniz. Quiver uygulamasıyla kullanacağınız
@@ -28,7 +28,7 @@ görsellerle önce boyama çalışması yapıp daha sonra Quiver uygulamasıyla 
 getirirseniz, siz görseli hangi renge boyadıysanız canlanan karakterde sizin boyadığınız
 renkte canlanacaktır.
 
-[http://www.quivervision.com/](http://www.quivervision.com/) web adresine giriş yaptıktan sonra Coloring Packs üzerine
+[http://www.quivervision.com/](https://www.quivervision.com/) web adresine giriş yaptıktan sonra Coloring Packs üzerine
 tıkladığınızda karşınıza Quiver, Quiver Education, Quiver Fashion, Quiver
 Masks bölümleri gelecektir. Ders içeriğinize ve kazanımınıza uygun olan çalışma
 kağıdını pdf formatında indirdikten sonra çıktısını aldıktan yazdırmanız yeterli olacaktır.

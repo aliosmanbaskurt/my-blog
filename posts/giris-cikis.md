@@ -1,6 +1,6 @@
 ---
 title: "Bilgisayar Giriş Çıkış Birimleri"
-date: "2024-02-14"
+date: "2024-02-13"
 category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
