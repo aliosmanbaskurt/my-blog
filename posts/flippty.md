@@ -1,7 +1,7 @@
 ---
 title: "Flippty ile İnteraktif Çalışma Kağıtları"
-date: "2024-02-14"
-category: "Kodlama"
+date: "2024-02-14 11:00"
+category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"

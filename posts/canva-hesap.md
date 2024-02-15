@@ -1,6 +1,6 @@
 ---
 title: "Canva ile Eğitici/Öğretmen Hesabı Oluşturma"
-date: "2024-02-15"
+date: "2024-02-15 14:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"

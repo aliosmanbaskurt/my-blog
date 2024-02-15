@@ -3,6 +3,8 @@ import React from "react";
 
 import getFormattedDate from "@/lib/getFormattedDate";
 
+const bugun = new Date();
+
 type Props = {
   post: BlogPost;
 };
@@ -21,7 +23,7 @@ export default function ListItem({ post }: Props) {
         {title}
       </Link>
 
-      <p className="text-sm mt-2">{formattedDate}</p>
+      <p className="text-sm mt-2 font-bold">{formattedDate}</p>
     </li>
   );
 }

@@ -1,7 +1,7 @@
 ---
 title: "Quiver ile Artırılmış Gerçeklik"
-date: "2024-02-13"
-category: "Kodlama"
+date: "2024-02-12"
+category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"

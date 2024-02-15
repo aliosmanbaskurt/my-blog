@@ -1,7 +1,7 @@
 ---
 title: "Bilgisayar Giriş Çıkış Birimleri"
 date: "2024-02-13"
-category: "Kodlama"
+category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
