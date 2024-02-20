@@ -9,7 +9,7 @@ author_pic: "/images/pic.png"
 
 ![test](/images/ulkeler.png)
 
-[Wordart](https://wordart.com) Wordart, seçmiş olduğunuz kelimeleri bir araya getirerek bir bulut haline getiren eğlenceli bir kelime bulutu aracıdır. Kelime bulutları sayesinde sınıflarınızı daha renkli, derslerinizi daha eğlenceli hale getirebilirsiniz. Wordart da kullanışlılığı ile size bu konuda yardımcı olabilir. Wordart nedir, nasıl kullanılır Wordart kullanımı ile ilgili detaylı bilgilere aşağıdan ulaşabilirsiniz.
+[Wordart](https://wordart.com), seçmiş olduğunuz kelimeleri bir araya getirerek bir bulut haline getiren eğlenceli bir kelime bulutu aracıdır. Kelime bulutları sayesinde sınıflarınızı daha renkli, derslerinizi daha eğlenceli hale getirebilirsiniz. Wordart da kullanışlılığı ile size bu konuda yardımcı olabilir. Wordart nedir, nasıl kullanılır Wordart kullanımı ile ilgili detaylı bilgilere aşağıdan ulaşabilirsiniz.
 
 Wordart öyle bir araç ki içerisinde onlarca şeklin bulunduğu, onlarca kelime ekleyip onu istediğiniz formatta çıkartıp, istediğiniz platformda paylaşabilirsiniz. Ayrıca Wordart, kullanımı oldukça basit bir araç. Wordart ile kelime bulutu oluşturarak sınıflarınızı rengarenk eğitsel içeriklerle donatabilirsiniz. Aynı zamanda öğrencilerinize keyif alacakları performans ödevleri verebilirsiniz.
 
