@@ -1,6 +1,6 @@
 ---
 title: "Code.org ile Kodlamaya Giriş"
-date: "2024-02-21"
+date: "2024-02-21 12:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
