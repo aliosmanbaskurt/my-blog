@@ -6,6 +6,7 @@ import "@radix-ui/themes/styles.css";
 import { Theme, ThemePanel } from "@radix-ui/themes";
 import Footer from "./components/Footer";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
   title: "Ali Osman Başkurt",
@@ -26,6 +27,7 @@ export default function RootLayout({
           <main>
             {children}
             <Analytics />
+            <SpeedInsights />
           </main>
           <Footer />
         </Theme>
