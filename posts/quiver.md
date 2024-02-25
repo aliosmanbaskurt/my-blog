@@ -1,6 +1,6 @@
 ---
 title: "Quiver ile Artırılmış Gerçeklik"
-date: "2024-02-12"
+date: "2024-02-12 11:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
@@ -8,6 +8,10 @@ author_pic: "/images/pic.png"
 ---
 
 ![test](/images/play.png)
+
+> Artırılmış gerçeklik (İngilizce: Augmented reality; AR), gerçek dünyadaki çevrenin ve içindekilerin, bilgisayar tarafından üretilen; ses, görüntü, grafik ve GPS verileriyle zenginleştirilerek meydana getirilen canlı veya dolaylı fiziksel görünümüdür. Bu kavram kısaca gerçekliğin bilgisayar tarafından değiştirilmesi ve artırılmasıdır. Teknoloji kişinin gerçekliğini zenginleştirme işlevini görür.
+
+> Karıştırılmaması gereken diğer gerçeklik türü olan sanal gerçeklikte (İngilizce:Virtual Reality; VR) ise gerçek dünya yerine tasarlanıp canlandırılmış bir dünya vardır.
 
 [Quiver](https://www.quivervision.com/) özellikle küçük yaş grubu öğrencilerimizle kullanabileceğiniz artırılmış gerçeklik içeren eğlenceli birweb 2.0 aracıdır. Öğrenciler çıktısını aldığımız dosyalar üzerinde çalışmalarını yaptıktan sonra telefonumuzdaki
 uygulamayı açıp dosyaların üzerine tuttuğumuzda 3 veya
@@ -19,6 +23,8 @@ telefonunuza ya da tabletinize indirmek.
 Yapmanız gereken tek şey Quiver’ın web sayfasında bulunan görsellerden ders içeriğinize
 uygun olanını yazdırıp çalışma kağıtları hazırlamak ve Quiver uygulamasını akıllı
 telefonunuza ya da tabletinize indirmek.
+
+![test](/images/slayt32.png)
 
 [http://www.quivervision.com/](https://www.quivervision.com/)sitesindeki ücretsiz etkileşimli görselimizi indirip telefon
 veya tabletimize yükleyeceğimiz uygulamayla görselimizi gözlemlememiz yeterlidir.
@@ -38,8 +44,9 @@ indirmiş olduğunuz Quiver uygulamasını açarak kağıdın üzerine tutuyorsu
 artırılmış gerçeklik sayesinde inceleyebiliyorsunuz.
 
 Quiver kullanmak için hangi adımları izlemeliyim?
+![test](/images/slayt33.png)
 
-1. http://www.quivervision.com/coloring-packs adresinden bir etkinliği seçilir. Burada ücretsiz
+1. [http://www.quivervision.com/coloring-packs](http://www.quivervision.com/coloring-packs) adresinden bir etkinliği seçilir. Burada ücretsiz
    ve ücretli olan etkinliklere dikkat edilebilir. Yanında $ işareti olanlar ücretli olup yeşil free
    yazanları ücretsiz baskı alabilirsiniz. Baskı için normal A4 kağıdı veya ihtiyaç olursa A3 kağıdına
    baskı alabilirsiniz.
