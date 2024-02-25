@@ -24,8 +24,6 @@ Yapmanız gereken tek şey Quiver’ın web sayfasında bulunan görsellerden de
 uygun olanını yazdırıp çalışma kağıtları hazırlamak ve Quiver uygulamasını akıllı
 telefonunuza ya da tabletinize indirmek.
 
-![test](/images/slayt32.png)
-
 [http://www.quivervision.com/](https://www.quivervision.com/)sitesindeki ücretsiz etkileşimli görselimizi indirip telefon
 veya tabletimize yükleyeceğimiz uygulamayla görselimizi gözlemlememiz yeterlidir.
 Akıllı telefon veya tabletinizin ekranında görselimizdeki karakterin canlandığını hatta
@@ -44,7 +42,6 @@ indirmiş olduğunuz Quiver uygulamasını açarak kağıdın üzerine tutuyorsu
 artırılmış gerçeklik sayesinde inceleyebiliyorsunuz.
 
 Quiver kullanmak için hangi adımları izlemeliyim?
-![test](/images/slayt33.png)
 
 1. [http://www.quivervision.com/coloring-packs](http://www.quivervision.com/coloring-packs) adresinden bir etkinliği seçilir. Burada ücretsiz
    ve ücretli olan etkinliklere dikkat edilebilir. Yanında $ işareti olanlar ücretli olup yeşil free
