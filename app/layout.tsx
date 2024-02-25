@@ -5,6 +5,7 @@ import NavBar from "./components/NavBar";
 import "@radix-ui/themes/styles.css";
 import { Theme, ThemePanel } from "@radix-ui/themes";
 import Footer from "./components/Footer";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
   title: "Ali Osman Başkurt",
@@ -22,7 +23,10 @@ export default function RootLayout({
         <Theme accentColor="violet" grayColor="sand" radius="large">
           <NavBar />
 
-          <main>{children}</main>
+          <main>
+            {children}
+            <Analytics />
+          </main>
           <Footer />
         </Theme>
       </body>
