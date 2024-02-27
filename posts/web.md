@@ -29,8 +29,6 @@ Web “yaşayan bir organizmadır”, tıpkı onun gibi evrim geçirir. 1966’d
   kullanımını refere etmektedir. Anahtar kelimeleri kullanarak bir içerik araştırması yapmak buna
   bir örnektir.
 
-- Web 4.0 ise 2016’da başladı ve daha fazla zekâ ve erişim üzerine odaklanmaktadır.
-
 ![test](/images/web01.jpeg)
 **1. Web 1.0 nedir?**
 
