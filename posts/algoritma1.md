@@ -23,4 +23,4 @@ author_pic: "/images/pic.png"
 ```
 
 **Akış Şeması**
-![test](/images/Flowchart1.png)
+![test](/images/Flowchart-22.png)
