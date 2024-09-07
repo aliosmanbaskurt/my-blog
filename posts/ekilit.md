@@ -63,4 +63,4 @@ Uygulama kurulduktan sonra açılan ekranda bazı ayarlamaların yapılması ger
 
 ---
 
-> Tahtayı kullanıktan sonra kilitlemek için sağ alttan tahtayı kilitle butonuna basmayı unutmayınız!
+> Tahtayı kullandıktan sonra kilitlemek için sağ alttan tahtayı kilitle butonuna basmayı unutmayınız!
