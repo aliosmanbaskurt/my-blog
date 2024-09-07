@@ -39,7 +39,7 @@ author_pic: "/images/pic.png"
 
 > Akıllı tahtada size kullanmanız için bir karekod verilecektir.
 
-![test](/images/ekilit6.png)
+![test](/images/ekilitnew.png)
 
 > Akıllı telefonunuzdan e-kilit uygulamasını açınız ve kamera simgesine tıklayınız.
 
