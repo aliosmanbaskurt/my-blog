@@ -33,7 +33,14 @@ export default function NavBar() {
           <Link href="/">
             <h1 className="flex items-center font-bold  text-3xl sm:text-2xl gap-1">
               <SiRobotframework />
-              bilgisayar.tech
+              <span className="z-10"> bilgisayar.te</span>
+              <span className="-ml-3 mr-1 bg-gradient-to-l from-purple-500 to-pink-500 bg-clip-text text-transparent z-10">
+                a
+              </span>
+              <span className="-ml-4 z-10">ch</span>
+              <span className="-ml-3 bg-gradient-to-l from-purple-500 to-pink-500 bg-clip-text text-transparent indent-0 z-5 tracking-tighter">
+                er
+              </span>
             </h1>
           </Link>
         </div>
@@ -42,9 +49,10 @@ export default function NavBar() {
             <Link
               key={link.href}
               className={classNames({
-                "text-slate-900": link.href === paths,
-                "text-slate-800": link.href !== paths,
-                "text-xl hover:text-slate-600 dark:text-white": true,
+                "text-slate-900 transition-all": link.href === paths,
+                "text-slate-900/50": link.href !== paths,
+                "text-xl hover:text-slate-900 transition-all duration-300 dark:text-white":
+                  true,
               })}
               href={link.href}
             >
