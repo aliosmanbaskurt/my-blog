@@ -34,11 +34,12 @@ export default function NavBar() {
             <h1 className="flex items-center font-bold  text-3xl sm:text-2xl gap-1">
               <SiRobotframework />
               <span className="z-10"> bilgisayar.te</span>
-              <span className="-ml-3 mr-1 bg-gradient-to-l from-purple-500 to-pink-500 bg-clip-text text-transparent z-10">
+              <span className="-ml-1 bg-gradient-to-l from-purple-500 to-pink-500 bg-clip-text text-transparent z-10">
                 a
               </span>
-              <span className="-ml-4 z-10">ch</span>
-              <span className="-ml-3 bg-gradient-to-l from-purple-500 to-pink-500 bg-clip-text text-transparent indent-0 z-5 tracking-tighter">
+              <span className="-ml-1 z-10">ch</span>
+
+              <span className="-ml-1 bg-gradient-to-l from-purple-500 to-pink-500 bg-clip-text text-transparent indent-0 z-5 ">
                 er
               </span>
             </h1>
