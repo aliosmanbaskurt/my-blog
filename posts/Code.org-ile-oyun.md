@@ -5,6 +5,8 @@ category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/game.png"
+post_truncate: "Code.org sitesinden mini bir oyun olan Chase Oyunu tasarlayacağız. Adım adım ilerleyerek oyunumuzu kodlayacağız."
 ---
 
 ![test](/images/game.png)

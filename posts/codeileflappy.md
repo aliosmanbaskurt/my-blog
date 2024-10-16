@@ -1,10 +1,12 @@
 ---
-title: "Code.org ile Flappy Bird Oyununu Tasarla"
+title: "Code.org ile Flappy Bird"
 date: "2024-02-22 20:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/flappy.png"
+post_truncate: "Flappy Bird, Nguyễn Hà Đông (Dong Nguyen) tarafından akıllı telefonlar için yapılan bir oyundur. Aslında bu oyun iPhone 5 için 5 Mart 2013'te piyasaya sürüldü, fakat oyunda yapılan küçük bir güncelleme yüzünden oyun aniden bir trend haline gelmiştir."
 ---
 
 ![test](/images/flappy.png)

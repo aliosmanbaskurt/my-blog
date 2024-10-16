@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/e-kilit-giris.png"
+post_truncate: "Okulumuzda kullanılan akıllı tahtaların kullanım ömrünü uzatmak amacıyla geliştirilen e-Kilit yazılımı akıllı tahtaları izinsiz kullanımlardan korumaktadır. Bu makalede akıllı tahtalara kurulan e-kilit yazılımının mobil cihazlarınızla nasıl açılacağı anlatılmaktadır."
 ---
 
 ![test](/images/e-kilit-giris.png)

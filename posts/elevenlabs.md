@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/elevenlabs.png"
+post_truncate: "Yapay zeka ses oluşturucusyla metni, çevrimiçi olarak ücretsiz konuşmaya dönüştürün. Herhangi bir dilde anında doğal yapay zeka sesleri oluşturun; video yaratıcıları, geliştiriciler ve işletmeler için mükemmeldir."
 ---
 
 ![test](/images/elevenlabs.png)

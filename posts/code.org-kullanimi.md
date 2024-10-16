@@ -5,6 +5,8 @@ category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/image3.png"
+post_truncate: "Code.org sitesi her yaştan öğrenciye kodlamayı öğretmeyi ele alan platformdur. Basitten karmaşığa doğru oluşturulan öğrenme içeriğiyle kodlamayı çocuklara öğretiyor."
 ---
 
 [Code.org](https://code.org/) sitesi her yaştan öğrenciye kodlamayı öğretmeyi ele alan platformdur. Basitten karmaşığa doğru oluşturulan öğrenme içeriğiyle kodlamayı çocuklara öğretiyor.

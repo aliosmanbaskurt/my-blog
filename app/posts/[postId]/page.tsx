@@ -4,15 +4,9 @@ import { getAllPostIds, getPostData, getSortedPostsData } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import getFormattedDate from "@/lib/getFormattedDate";
-import {
-  Button,
-  Card,
-  Text,
-  Box,
-  Flex,
-  Avatar,
-  Separator,
-} from "@radix-ui/themes";
+import { Card, Text, Box, Flex, Avatar, Separator } from "@radix-ui/themes";
+
+import { Button } from "@/components/ui/button";
 
 export function generateStaticParams() {
   const posts = getSortedPostsData();
@@ -45,20 +39,21 @@ export default async function Post({ params }: { params: { postId: string } }) {
     author_pic,
     contentHtml,
   } = await getPostData(postId);
+  const post_pic = ""; // Add a default value for post_pic
   const formattedDate = getFormattedDate(date);
   return (
-    <main className="h-full px-6 mx-auto mt-10 prose prose-xl dark:text-white">
+    <main className="h-full px-6 mx-auto mt-10 prose prose-xl ">
       <h1 className="text-3xl mt-4 mb-0">{title}</h1>
       <p className="mt-2 text-sm">
         <span className="font-bold mr-2">#{category} </span>
         {formattedDate}
       </p>
 
-      <Separator my="3" size="4" className="dark:text-dark dark:bg-white" />
-      <article className=" mx-auto">
+      <Separator my="3" size="4" className="" />
+      <article className=" mx-auto ">
         <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
         <Separator my="3" size="4" />
-        <div className="">
+        {/* <div className="">
           <Card size="2" style={{ maxWidth: 340 }} className="mb-4 mt-4">
             <Flex gap="3" align="center">
               <Avatar size="3" src={author_pic} radius="full" fallback="T" />
@@ -82,10 +77,13 @@ export default async function Post({ params }: { params: { postId: string } }) {
               </Box>
             </Flex>
           </Card>
-        </div>
-        <div className="mb-8">
-          <Button variant="outline">
-            <Link href="/" className="flex items-center no-underline">
+        </div> */}
+        <div className="mb-8 mt-2 ">
+          <Button className="rounded-lg" variant="outline">
+            <Link
+              href="/"
+              className="flex items-center no-underline text-dark hover:text-slate-700/90"
+            >
               <svg
                 width="15"
                 height="15"

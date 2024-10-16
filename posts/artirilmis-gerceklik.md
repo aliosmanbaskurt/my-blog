@@ -5,6 +5,8 @@ category: "Teknoloji Kullanımı"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/hero.jpg"
+post_truncate: "Artırılmış gerçeklik, gerçek dünyadaki çalışma ortamlarında dijital içeriği üst üste yerleştirerek işe yarar yönergeler tasarlama, düzenleme ve sunmanın daha iyi bir yolunu sağlar. İşletme AR'nin ne olduğunu ve bunu nasıl başarılı şekilde kullanacağını anladığında herkes uzaktan çalışarak verimli şekilde iş birliği yapabilir."
 ---
 
 ![test](/images/hero.jpg)

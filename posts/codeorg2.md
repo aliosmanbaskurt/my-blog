@@ -1,10 +1,13 @@
 ---
-title: "Code.org ile Blok Kodlama"
+title: "Code.org ile Kodlama"
 date: "2024-02-21 17:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/code2.png"
+post_truncate: "Döngüler, olaylar ve koşullar içeren programlar oluştur. İsminin baş harflerini binary kodlarına dönüştür, farklı problem çözme tekniklerini araştır ve öğren. Kursun sonunda, kendine ait ve paylaşabileceğin bir oyun ya da hikaye oluştur.
+"
 ---
 
 ![test](/images/code2.png)

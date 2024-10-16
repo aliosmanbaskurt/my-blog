@@ -5,13 +5,15 @@ category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/loops.jpg"
+post_truncate: "Program ya da algoritma yazarken eğer bir adımın birden fazla tekrarlanmasını istiyorsak döngüler kavramını kullanırız. Peki döngü mantığı nedir ve nasıl çalışır."
 ---
 
-![test](/images/loops.jpeg)
+![test](/images/loops.jpg)
 
 **DÖNGÜLER(LOOPS)**
 
-Pprogram ya da algoritma yazarken eğer bir adımın birden fazla tekrarlanmasını istiyorsak döngüler kavramını kullanırız. Peki döngü mantığı nedir ve nasıl çalışır.
+Program ya da algoritma yazarken eğer bir adımın birden fazla tekrarlanmasını istiyorsak döngüler kavramını kullanırız. Peki döngü mantığı nedir ve nasıl çalışır.
 
 Döngüler genellikle bizim belirleyeceğimiz bir sayaçla istediğimiz şart sağlandığı sürece bu sayaca bağlı işlemlerin birkaç kez tekrarlanması esasına dayanır.
 

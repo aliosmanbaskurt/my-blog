@@ -1,10 +1,12 @@
 ---
-title: "Wordart ile Kelime Bulutu Oluşturma"
+title: "Wordart ile Kelime Bulutu"
 date: "2024-02-14 10:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/ulkeler.png"
+post_truncate: "Wordart, seçmiş olduğunuz kelimeleri bir araya getirerek bir bulut haline getiren eğlenceli bir kelime bulutu aracıdır. Kelime bulutları sayesinde sınıflarınızı daha renkli, derslerinizi daha eğlenceli hale getirebilirsiniz. "
 ---
 
 ![test](/images/ulkeler.png)

@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/web1.png"
+post_truncate: "World Wide Web, belgelerin/ağların hipermetinler aracılığıyla dijital teknoloji üzerinden birbirine bağlanmasıdır."
 ---
 
 ![test](/images/web1.png)

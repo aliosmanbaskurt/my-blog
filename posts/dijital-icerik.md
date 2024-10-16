@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/digital.jpg"
+post_truncate: "Dijital içerik, bilgisayarlar, tabletler ve akıllı telefonlar gibi dijital cihazlarda görüntülenebilen ve kullanılabilen içeriktir. Metin, görsel, video, ses ve animasyon gibi farklı formatlarda olabilir.Dijital içerik, internet, sosyal medya, e-posta ve mobil uygulamalar gibi dijital kanallar aracılığıyla dağıtılır."
 ---
 
 ![test](/images/digital.jpg)

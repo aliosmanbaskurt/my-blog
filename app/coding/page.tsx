@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function Coding() {
   return (
-    <div className="grid h-full items-center mx-auto justify-center mt-6 prose prose-xl dark:text-white">
+    <div className="grid h-full items-center mx-auto justify-center mt-6 prose prose-xl ">
       <div className="justify-center flex">
         <Image alt="code" src="/images/coding.png" width={800} height={800} />
       </div>

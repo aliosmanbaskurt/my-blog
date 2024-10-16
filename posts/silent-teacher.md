@@ -1,10 +1,12 @@
 ---
-title: "Silent Teacher ile Değişkenler, Döngüler ve Fonksiyonlar"
+title: "Silent Teacher ile Algoritma"
 date: "2024-02-22 16:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/silent-teacher.png"
+post_truncate: "Sihirli Yazı, herkesin kısa zamanda kolayca yazılı içerik oluşturmasına yardımcı olan yapay zeka destekli bir yazma asistanıdır. Sihirli Yazı kullanarak sosyal medya gönderileri, iş planları, web siteleri, blog yazıları, şiirler, günlükler, yaratıcı yazarlık metinleri ve çok daha fazlasını oluşturabilirsiniz. "
 ---
 
 ![test](/images/silent-teacher.png)

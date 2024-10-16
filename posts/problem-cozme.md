@@ -5,6 +5,8 @@ category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/tilki.png"
+post_truncate: "Bir çiftçinin bir tilkiyi, bir kazı ve bir mısır çuvalını nehrin karşısına geçirmesi gerekmektedir. Çiftçinin bu işlemi gerçekleştirmek için küçük bir teknesi var ancak bu teknede çiftçi ile birlikte en fazla bir nesneye daha yer var. Ne yazık ki tilki ve kaz açtır. "
 ---
 
 ![test](/images/tilki.png)

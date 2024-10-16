@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/canva.png"
+post_truncate: "Canva kullanıcıların sosyal medya grafikleri, sunumları, posterleri ve diğer görsel içerikleri oluşturmasına olanak tanıyan bir grafik tasarım platformudur. Web'de ve mobilde kullanılabilir ve milyonlarca resim, yazı tipi, şablon ve illüstrasyonu entegre eder."
 ---
 
 ![test](/images/canva.png)

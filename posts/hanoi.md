@@ -5,6 +5,8 @@ category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/hanoi.png"
+post_truncate: "Hanoi kuleleri, bir matematik oyunu veya bulmacadır. Üç direk ve farklı boyutlarda disklerden oluşur. Bu diskleri dilediğiniz direğe aktarabilirsiniz. Bulmaca bir direkte en küçük disk yukarıda olacak şekilde, küçükten büyüğe direk üstünde dizilmiş olarak başlar. Böylece konik bir şekil oluşmuş olur. Hanoi Kuleleri ayrıca Problem çözme(bilişsel psikoloji) görevi olarak da deneysel çalışmalarda kullanılır"
 ---
 
 ![test](/images/hanoi.png)

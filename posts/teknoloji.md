@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/teknoloji.png"
+post_truncate: "🌐İnternet : Bilgisayar sitemlerini birbirine bağlayan elektronik iletişim ağıdır. Çeşitli protokollere göre bilgisayarlar arasında bilgi transferi sağlar."
 ---
 
 ![test](/images/teknoloji.png)

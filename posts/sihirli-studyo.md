@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/sihirlistudyo.png"
+post_truncate: "Sihirli Yazı, herkesin kısa zamanda kolayca yazılı içerik oluşturmasına yardımcı olan yapay zeka destekli bir yazma asistanıdır. Sihirli Yazı kullanarak sosyal medya gönderileri, iş planları, web siteleri, blog yazıları, şiirler, günlükler, yaratıcı yazarlık metinleri ve çok daha fazlasını oluşturabilirsiniz. "
 ---
 
 ![test](/images/sihirlistudyo.png)

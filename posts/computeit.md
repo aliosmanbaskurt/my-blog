@@ -1,18 +1,19 @@
 ---
-title: "Compute.it ile Algoritma ve Fonksiyonlar"
+title: "Compute.it ile Algoritma"
 date: "2024-02-22 16:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/compute-it.png"
+post_truncate: "Compute.it kodlama aracı; klavye ile algoritma yapmak için geliştirilmiş bir uygulamadır. Klavye yön tuşları ile oynanır. 58 bölümden oluşur. İlk bölümlerde temel yönlendirme algoritma varken ilerleyen bölümlerde döngüler ve koşullar algoritmaya dahil olmaktadır."
 ---
 
 ![test](/images/compute-it.png)
 
 **Compute.it ile Algoritma ve Fonksiyonlar**
 
-> [Compute.it](https://compute-it.toxicode.fr) Compute.it kodlama aracı; klavye ile algoritma yapmak için geliştirilmiş bir uygulamadır. Klavye yön tuşları ile oynanır. 58 bölümden oluşur. İlk bölümlerde temel yönlendirme algoritma varken ilerleyen bölümlerde döngüler ve koşullar algoritmaya dahil
-> olmaktadır.
+> [Compute.it](https://compute-it.toxicode.fr) Compute.it kodlama aracı; klavye ile algoritma yapmak için geliştirilmiş bir uygulamadır. Klavye yön tuşları ile oynanır. 58 bölümden oluşur. İlk bölümlerde temel yönlendirme algoritma varken ilerleyen bölümlerde döngüler ve koşullar algoritmaya dahil olmaktadır.
 
 - Bu uygulamada bize verilen kodlara göre topu haraket ettirmemiz isteniyor.
 

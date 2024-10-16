@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/sonuc.png"
+post_truncate: "Canva ile görsel açıdan zengin infografikler hazırlayabilirsiniz.Bu çalışmamızda Güneş sistemimizdeki gezegenlerin güneş sistemine olan uzaklıklarına göre sıralanmasını gösteren bir infografik hazırlayacağız."
 ---
 
 ![test](/images/g2.png)

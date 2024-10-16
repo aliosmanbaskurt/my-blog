@@ -3,7 +3,7 @@ import "./globals.css";
 import MyProfilePic from "./components/Profile";
 import NavBar from "./components/NavBar";
 import "@radix-ui/themes/styles.css";
-import { Theme, ThemePanel } from "@radix-ui/themes";
+
 import Footer from "./components/Footer";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
@@ -24,17 +24,15 @@ export default function RootLayout({
         name="google-site-verification"
         content="4QvEzBduefIQNc1o1pi5_8kmvVEh3pVu6hdhjHrAfMA"
       />
-      <body className="mx-auto justify-center dark:bg-slate-700">
-        <Theme accentColor="violet" grayColor="sand" radius="large">
-          <NavBar />
+      <body className="mx-auto justify-center ">
+        <NavBar />
 
-          <main>
-            {children}
-            <Analytics />
-            <SpeedInsights />
-          </main>
-          <Footer />
-        </Theme>
+        <main>
+          {children}
+          <Analytics />
+          <SpeedInsights />
+        </main>
+        <Footer />
       </body>
     </html>
   );

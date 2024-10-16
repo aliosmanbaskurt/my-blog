@@ -6,4 +6,6 @@ type BlogPost = {
     author:string,
     author_title:string,
     author_pic:string,
+    post_pic:string,
+    post_truncate:string,
 }

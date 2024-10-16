@@ -5,6 +5,8 @@ category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/algo.jpg"
+post_truncate: "1'den 10'a kadar olan sayıları ekrana yazdıran algoritmayı yazınız.Akış şemasını çiziniz"
 ---
 
 **Soru 1:**

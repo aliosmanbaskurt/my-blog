@@ -29,6 +29,8 @@ export function getSortedPostsData() {
       author: matterResult.data.author,
       author_title: matterResult.data.author_title,
       author_pic: matterResult.data.author_pic,
+      post_pic: matterResult.data.post_pic,
+      post_truncate: matterResult.data.post_truncate,
     };
     return blogPost;
   });
@@ -76,6 +78,8 @@ export async function getPostData(id: string) {
     author: matterResult.data.author,
     author_title: matterResult.data.author_title,
     author_pic: matterResult.data.author_pic,
+    post_pic: matterResult.data.post_pic,
+    post_truncate: matterResult.data.post_truncate,
     contentHtml,
   };
   // Combine the data with the id

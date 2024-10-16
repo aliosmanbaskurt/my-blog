@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/Resim2.jpg"
+post_truncate: "Bilgisayar giriş çıkış elemanları ve bileşenleri, bilgisayarın kullanıcı ile iletişim kurmasını ve çevredeki dünya ile etkileşime girmesini sağlayan cihazlardır. Giriş elemanları, kullanıcının bilgisayara veri girmesini sağlar. Çıkış elemanları ise bilgisayarın kullanıcıya veya çevredeki dünyaya veri veya bilgi aktarmasını sağlar."
 ---
 
 **Bilgisayar Giriş, Çıkış ve Bileşenleri**

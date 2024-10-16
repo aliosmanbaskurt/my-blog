@@ -5,6 +5,8 @@ category: "Kodlama"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/algo.jpg"
+post_truncate: "100 sn sonunda çalacak alarm sistemi hazırlanacaktır. 100 sn olunca ekrana `ALARM ÇALDI` yazan algoritmayı yazınız. Akış şemasını çiziniz."
 ---
 
 **Soru 2:**

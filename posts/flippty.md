@@ -5,6 +5,8 @@ category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
 author_title: "Bilişim Teknolojileri Öğretmeni"
 author_pic: "/images/pic.png"
+post_pic: "/images/flippity.jpg"
+post_truncate: "Flippity, herhangi bir Google e-tablosunu kolayca flash kartlara, rozet oluşturucuya, soru bankasına, hafıza oyununa, lider tablosuna ve daha fazlasına dönüştürebilen ücretsiz bir araçtır."
 ---
 
 [Flippty](https://www.flippity.net/) Flippity, herhangi bir Google e-tablosunu kolayca flash kartlara, rozet oluşturucuya, soru bankasına, hafıza oyununa, lider tablosuna ve daha fazlasına dönüştürebilen ücretsiz bir
