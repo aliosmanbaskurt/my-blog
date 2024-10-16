@@ -1,5 +1,5 @@
 ---
-title: "Code.org ile Kodlama"
+title: "Code.org ile Kodlama Nedir?"
 date: "2024-02-21 17:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"

@@ -34,7 +34,7 @@ export default function ListItem({ post }: Props) {
       </figure>
       <hr />
       <div className="p-3 space-y-2 text-center py-5">
-        <h2 className="card-title justify-center">
+        <h2 className="card-title justify-center line-clamp-2 p-1">
           <Link className="hover:text-slate-600 " href={`/posts/${id}`}>
             {title}
           </Link>

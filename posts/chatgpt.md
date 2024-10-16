@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT ile Yapay Zeka"
+title: "ChatGPT ile Yapay Zeka Kullanımı"
 date: "2024-02-16 11:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"

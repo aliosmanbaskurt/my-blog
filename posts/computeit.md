@@ -1,5 +1,5 @@
 ---
-title: "Compute.it ile Algoritma"
+title: "Compute.it ile Algoritma Okuma"
 date: "2024-02-22 16:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"
