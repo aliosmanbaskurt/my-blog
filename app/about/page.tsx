@@ -11,6 +11,9 @@
 // import { cn } from "@/lib/utils";
 // import { Check, LetterText, Mail, Play } from "lucide-react";
 
+import Image from "next/image";
+import MyProfilePic from "../components/Profile";
+
 // import { Button } from "@/components/ui/button";
 // import Link from "next/link";
 // type CardProps = React.ComponentProps<typeof Card>;
@@ -93,8 +96,46 @@
 
 const About = () => {
   return (
-    <div>
-      <h1>Hakkında sayfası</h1>
+    <div className="space-y-6">
+      <MyProfilePic />
+      <div className="text-center flex flex-col items-center space-y-2">
+        <h1 className="text-3xl font-bold">Ali Osman BAŞKURT</h1>
+        <h2>👨🏼‍🏫 Bilişim Teknolojileri Öğretmeni</h2>
+        <p>🏫 Halen Abdülhamit Han MTAL'de görev yapmaktadır.</p>
+      </div>
+
+      <div className="sm:flex items-center justify-center p-8 space-y-4  space-x-2 sm:space-y-0">
+        <div className="h-64 border sm:w-64  rounded-xl p-2">
+          <div className="border-b flex justify-center ">
+            <img
+              className="w-64 h-32 rounded-xl p-2"
+              src="/images/cbu_yan.jpg"
+              alt="image"
+            />
+          </div>
+          <div className="text-center p-6 space-y-2 ">
+            <h3 className="font-bold">
+              Celal Bayar Üniversitesi Yazılım Mühendisliği
+            </h3>
+            <p className="text-sm italic">🗓️ 2022-2023</p>
+          </div>
+        </div>
+        <div className="h-64 border sm:w-64  rounded-xl p-2">
+          <div className="border-b flex justify-center">
+            <img
+              className="w-64 h-32 rounded-xl p-2"
+              src="/images/duzce.png"
+              alt="image"
+            />
+          </div>
+          <div className="text-center p-6 space-y-2">
+            <h3 className="font-bold">
+              Düzce Üniversitesi Bilgisayar Öğretmenliği
+            </h3>
+            <p className="text-sm italic">🗓️ 2008-2012</p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
