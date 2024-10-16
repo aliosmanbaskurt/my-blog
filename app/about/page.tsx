@@ -29,7 +29,7 @@ const notifications = [
     description: "2008-2012",
   },
 ];
-function About({ className, ...props }: CardProps) {
+const About = ({ className, ...props }: CardProps) => {
   return (
     <div className="flex flex-col justify-center">
       <MyProfilePic />
@@ -86,6 +86,6 @@ function About({ className, ...props }: CardProps) {
       </div>
     </div>
   );
-}
+};
 
 export default About;
