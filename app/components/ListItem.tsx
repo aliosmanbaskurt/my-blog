@@ -20,7 +20,7 @@ export default function ListItem({ post }: Props) {
   const formattedDate = getFormattedDate(date);
 
   return (
-    <div className="card bg-base-100 w-86 border-1 shadow-xl mt-4">
+    <div className="card bg-base-100 w-86 border-2 dark:border-slate-500 shadow-xl mt-4">
       <figure>
         <div>
           <Image
@@ -42,16 +42,19 @@ export default function ListItem({ post }: Props) {
         <p className="line-clamp-3 p-0">{post_truncate}</p>
       </div>
       <div className="m-1 ">
-        <Button className="w-3/4 sm:w-2/3 rounded-xl" variant="outline">
+        <Button
+          className="w-3/4 sm:w-2/3 text-lg sm:text-sm rounded-xl"
+          variant="outline"
+        >
           <Link href={`/posts/${id}`}>Yazıyı İncele</Link>
         </Button>
       </div>
       <div className="card-actions flex flex-col justify-center items-center text-xs text-center gap-x-1 py-2 mb-2">
-        <div className="badge p-4   text-sm hover:text-dark hover:bg-slate-200">
+        <div className="badge p-4 w-3/4 sm:w-2/3 text-sm hover:text-dark">
           {category === "Kodlama" ? (
             <RocketIcon className="w-4 text-red-600 mr-2" />
           ) : (
-            <DesktopIcon className="w-4 text-purple-800 hover:text-purple-100 mr-2" />
+            <DesktopIcon className="w-4 text-purple-800  mr-2" />
           )}
           {category}
         </div>

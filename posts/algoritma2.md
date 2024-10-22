@@ -1,5 +1,5 @@
 ---
-title: "Algoritma Çalışma Sorusu-2"
+title: "Algoritma Çalışma Sorusu - 2"
 date: "2024-05-15 21:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"

@@ -58,7 +58,7 @@ export default function NavBar() {
               className={classNames({
                 "text-neutral-500 dark:text-neutral-200 transition-all":
                   link.href === paths,
-                "text-neutral-500 dark:text-": link.href !== paths,
+                "text-neutral-600 dark:text-300": link.href !== paths,
                 "text-xl dark:text-neutral-100 hover:text-neutral-400 transition-all duration-300 ":
                   true,
               })}
