@@ -1,5 +1,5 @@
 ---
-title: "Dijital İçerik Nedir?"
+title: "Dijital İçerik Nedir? Nerelerde Kullanılır?"
 date: "2024-02-16 13:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"

@@ -1,5 +1,5 @@
 ---
-title: "Code.org ile Flappy Bird"
+title: "Code.org ile Flappy Bird Oyunu"
 date: "2024-02-22 20:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"

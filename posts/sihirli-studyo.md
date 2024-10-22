@@ -1,5 +1,5 @@
 ---
-title: "Canva ile Sihirli Stüdyo"
+title: "Canva ile Sihirli Stüdyo Kullanımı"
 date: "2024-02-19 14:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"

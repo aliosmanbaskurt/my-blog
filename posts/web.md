@@ -1,5 +1,5 @@
 ---
-title: "Web'in Tarihçesi"
+title: "Web'in Tarihçesi Hakkında"
 date: "2024-02-12 10:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"

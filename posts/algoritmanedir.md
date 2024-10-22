@@ -1,5 +1,5 @@
 ---
-title: "Algoritma"
+title: "Algoritma Nedir? Algoritma Türleri"
 date: "2024-02-19 23:30"
 category: "Kodlama"
 author: "Ali Osman Başkurt"

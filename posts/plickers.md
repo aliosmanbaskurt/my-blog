@@ -1,5 +1,5 @@
 ---
-title: "Plickers Nedir?"
+title: "Plickers Nedir? Quiz ve Yoklama"
 date: "2024-02-15 11:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"

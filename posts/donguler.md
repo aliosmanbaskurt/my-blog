@@ -1,5 +1,5 @@
 ---
-title: "Döngü ve Sayaç kavramı"
+title: "Döngü ve Sayaç Kavramı Nedir?"
 date: "2024-05-15 15:00"
 category: "Kodlama"
 author: "Ali Osman Başkurt"

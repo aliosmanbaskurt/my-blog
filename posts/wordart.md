@@ -1,5 +1,5 @@
 ---
-title: "Wordart ile Kelime Bulutu"
+title: "Wordart ile Kelime Bulutu Oluşturucu"
 date: "2024-02-14 10:00"
 category: "Teknoloji Kullanım"
 author: "Ali Osman Başkurt"
